@@ -1,6 +1,6 @@
 Tổng quan về bài toán
 ==
-Yêu cầu một người mua nhà ở Ames, Iowa mô tả ngôi nhà mơ ước của họ, và họ có thể sẽ không bắt đầu với chiều cao của trần nhà hoặc khoảng cách với các siêu thị gần đó. Với những mô tả này, bạn bắt đầu dự đoán giá của ngôi nhà mơ ước này sẽ là bao nhiêu.
+Yêu cầu một người mua nhà ở Ames, Iowa mô tả ngôi nhà mơ ước của họ, bạn bắt đầu dự đoán giá của ngôi nhà mơ ước này sẽ là bao nhiêu.
 ==
 Trong dự án này, chúng tôi sẽ thực hiện những việc sau:
 
@@ -15,5 +15,6 @@ Trong dự án này, chúng tôi sẽ thực hiện những việc sau:
     Tìm kiếm ra các bộ tham số tối ưu cho mô hình phù hợp nhất.
     Cải tiến các bước từ 2-6 để có một mô hình có độ chính xác cao hơn.
     Chạy dự đoán trên tập test, sau đó submit kết quả lên Kaggle.
+
 
 
